@@ -6,4 +6,6 @@ public class HomePage {
 
     //Keep going
 
+    //Good things are coming
+
 }
