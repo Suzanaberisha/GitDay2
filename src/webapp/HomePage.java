@@ -8,4 +8,10 @@ public class HomePage {
 
     //Good things are coming
 
+    //logo
+
+    //add more things
+
+    //footer
+
 }
