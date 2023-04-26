@@ -7,4 +7,6 @@ public class Sales {
 
 
     //sales
+
+    //holidays sales
 }
